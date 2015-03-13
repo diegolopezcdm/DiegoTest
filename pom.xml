@@ -17,5 +17,6 @@
   </dependencies>
   <build>
     <finalName>DiegoArtifqactId</finalName>
+    <directory>/home/diego/EAP-6.3.0/jboss-eap-6.3/standalone/deployments</directory>
   </build>
 </project>
